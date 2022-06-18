@@ -1,0 +1,17 @@
+.Footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+span {
+   color: rgba(255, 255, 255, .5)
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
